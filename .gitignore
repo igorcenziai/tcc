@@ -1,3 +1,6 @@
 venv/
 data/
+augmented_dataset/
+data_reclassified/
+reclassified_augmented_dataset/
 */*.keras
